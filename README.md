@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## I love programming in Linux
 
 You can use the [editor on GitHub](https://github.com/evansMeja/Linux-CommandLine-Basics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
